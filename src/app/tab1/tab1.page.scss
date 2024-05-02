@@ -1,0 +1,49 @@
+.perfil{
+    height: 150px;
+    width: 150px;
+}
+.nombre{
+    font-size: 20px;
+    color: navy;
+}
+ion-item-divider{
+    background-color: grey;
+}
+.datos{
+    display: flex;
+    flex-flow: column;
+}
+.datos2{
+    color: white;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    gap: 25px;
+}
+.contacto{
+    align-content: center;
+    flex: 1;
+    margin: 2px;
+}
+.color{
+    color: white;
+    text-align: center;
+}
+.foto{
+    color: white;
+    flex-direction: column;
+    background-color: navy;
+    width: 45%;
+    text-align: center;
+}
+.datos3{
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+    
+}
+.sobre{
+    width: 95%;
+    text-align: justify;
+    color: white;
+}
