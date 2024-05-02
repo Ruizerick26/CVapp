@@ -1,0 +1,43 @@
+ion-content{
+    justify-items: center;
+}
+ion-item-divider{
+    background-color: grey;
+    border-radius: 15px;
+    width: 98%;
+    margin: 3px;
+    padding: 3px;
+}
+.datos1{
+    display: flex;
+    flex-direction: column;
+}
+.titulo{
+    color: black;
+    font-size: 20px;
+    text-align: center;
+}
+.texto{
+    color: white;
+}
+.datos2{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+.titulo.dat{
+    width: 100%;
+}
+.refe{
+    border: rgba(0, 0, 0, 0.185) 1px solid;
+    background-color: rgba(0, 0, 0, 0.266);
+    width: 140px;
+    padding: 5px;
+    margin: 2px;
+    border-radius: 5px;
+}
+.datos3{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
