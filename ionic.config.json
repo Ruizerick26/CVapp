@@ -1,0 +1,7 @@
+{
+  "name": "CVapp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
